@@ -13,32 +13,4 @@ Search & Ranking: FAISS, BM25, Meilisearch
 Machine Learning: Sentence Transformers, Jina AI Reranker
 Containerization: Docker
 Deployment: Cloud-compatible
-🚀 Setup & Installation
-1️⃣ Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/Hatim-0101/multi_lang_hotel_search_eng.git
-cd multi_lang_hotel_search_eng
-2️⃣ Install dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3️⃣ Run the application:
-
-bash
-Copy
-Edit
-python app.py
-📂 Notebook
-For detailed processing, check the Jupyter Notebook:
-📜 Multi_Lang_Hotel_search_engine.ipynb
-
-🤝 Contributing
-Feel free to fork, improve, and submit a PR! Contributions are welcome.
-
-📜 License
-MIT License
